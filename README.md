@@ -2,7 +2,7 @@
 
 Pasos a seguir:
 
-1. Clonar este repositorio
+1. Hacer un fork de este repositorio
 
 2. Abrir CodeSpaces
 
